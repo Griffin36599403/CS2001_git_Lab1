@@ -501,7 +501,7 @@ Student ID | Movie | Year of Release
 1919716 | Fast and Furious 8 | 2017
 1919716 | Fast and Furious 8 | 2017
 1919716 | Fast and Furious 8 | 2017
-1615900 | Resident Evil: Damnation | 2012 
+1615900 | Resident Evil: Damnation | 2012
 1615900 | Resident Evil: Degeneration | 2008
 1615900 | Resident Evil: Vendetta | 2017
 1615900 | Ip Man 3 | 2015
@@ -517,3 +517,8 @@ Student ID | Movie | Year of Release
 1839606 | Wardogs | 2016
 1839606 | The Wolf Of Wall Street | 2013
 1834210 | The Avengers | 2012
+1900885 | Casablanca | 1942
+1900885 | Inkheart | 2008
+1900885 | Woman In Black | 2012
+1900885 | The Lion King | 1994
+1900885 | The Hitman's Bodyguard | 2017 
